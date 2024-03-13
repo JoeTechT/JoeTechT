@@ -1,3 +1,8 @@
+
+
+![](https://github.com/JoeTechT/JoeTechT/blob/main/Joe%20Trigg.png)
+
+
 ### Hi there 👋, my name is Joe Trigg
 #### I am a Software Engineer in Training
 I have been studying python as a part of the Hyperion bootcamp with the hopes of getting a job as a software engineer. 
