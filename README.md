@@ -1,6 +1,6 @@
 
 
-![](https://github.com/JoeTechT/JoeTechT/blob/main/Joe%20Trigg.png)
+![](https://github.com/JoeTechT/JoeTechT/blob/main/Joe%20Trigg%20(1).png)
 
 
 ### Hi there 👋, my name is Joe Trigg
