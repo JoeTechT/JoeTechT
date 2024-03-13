@@ -12,7 +12,7 @@ also making it fast and secure to use.
 
 
 ##### <ins>Skills:</ins>
-![](https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg)
+<img src= "https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" width="50" height="50"/>
 
 ##### <ins>Projects:</ins>
 
