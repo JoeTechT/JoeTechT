@@ -23,10 +23,10 @@ also making it fast and secure to use.
 <strong>Finance Calculator</strong> - https://github.com/JoeTechT/first_project/blob/main/finance_calculator.py
 
 
-### hobbies and interests:
+### <ins>hobbies and interests:</ins>
 In my spare time I like to play golf and reading about new technology mainly in the health and fitness. 
 
-### Please check out my linkedin: 
+#### <ins>Please check out my linkedin:</ins>
 
 linkedin.com/in/joe-trigg-jt1707 
 
